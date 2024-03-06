@@ -79,7 +79,7 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+# .env
 # excempt the apps/www .env
 !apps/www/.env
 .env.tmp
